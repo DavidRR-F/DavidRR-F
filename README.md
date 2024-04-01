@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Programmer looking to contribute and learn on open source project
+I am a Programmer looking to contribute and learn on open source projects
 
 
 ## 🌐 Socials:
